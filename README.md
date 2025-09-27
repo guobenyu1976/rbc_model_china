@@ -34,6 +34,9 @@ The model is written in **Dynare** and follows a standard neoclassical growth st
    - Runs stochastic simulations with technology shocks.
    - Verifies calibration targets by computing steady-state ratios and interest rates.
 
+<img width="920" height="455" alt="9c12c85a-1c77-4872-a791-f53b291421c0" src="https://github.com/user-attachments/assets/e77a427b-9103-4837-9069-94a1521dbb3f" />
+
+
 ## Files
 - `RBC_growth_china.mod` — Dynare model file containing the entire calibration, model definition, and simulation.
 
@@ -45,4 +48,5 @@ The model is written in **Dynare** and follows a standard neoclassical growth st
 1. Install Dynare and ensure it is added to your MATLAB/Octave path.
 2. Clone this repository:
    ```bash
+
    git clone https://github.com/guobenyu1976/rbc_model_china
